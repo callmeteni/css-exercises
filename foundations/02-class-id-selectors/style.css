@@ -1,0 +1,24 @@
+.classone, .classtwo, .classfive{
+    background-color: pink;
+}
+
+.classone, .classfive{
+    font-size: 15px;
+}
+
+.classtwo{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+#num2 {
+    color: blue;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+#num4 {
+    background-color: greenyellow;
+    font-weight: 300;
+    font-size: 25px;
+}
